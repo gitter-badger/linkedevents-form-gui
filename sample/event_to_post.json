@@ -1,0 +1,79 @@
+{
+    "location": {
+        "@id": "http://127.0.0.1:8000/v0.1/place/system%3A42/"
+    },
+    "keywords": [
+        {
+            "@id": "http://127.0.0.1:8000/v0.1/keyword/yso%3Ap27608/"
+        }
+    ],
+    "event_status": "EventScheduled",
+    "publication_status": "public",
+    "external_links": [
+        {
+            "name": "Palvelut",
+            "link": "http://www.ravintolapresto.fi/teatteritarjoilu",
+            "language": "fi"
+        },
+        {
+            "name": "Service",
+            "link": "http://www.ravintolapresto.fi/teatteritarjoilu",
+            "language": "en"
+        },
+        {
+            "name": "Service",
+            "link": "http://www.ravintolapresto.fi/teatteritarjoilu",
+            "language": "sv"
+        }
+    ],
+    "offers": [
+        {
+            "is_free": false,
+            "info_url": {
+                "en": "http://www.lippupalvelu.fi/event/volare-italialainen-ilta-lippuja/167341",
+                "fi": "http://www.lippupalvelu.fi/event/volare-italialainen-ilta-lippuja/167341",
+                "sv": "http://www.lippupalvelu.fi/event/volare-italialainen-ilta-lippuja/167341"
+            },
+            "description": null,
+            "price": {
+                "en": "from. 34 €",
+                "fi": "alk. 34 €",
+                "sv": "från. 34 €"
+            }
+        }
+    ],
+    "image": "http://www.savoyteatteri.fi/instancedata/prime_product_intranet/Kulke/embeds/MediumEventPic_560015.jpg",
+    "origin_id": "12345",
+    "date_published": "2016-01-02T10:00:00Z",
+    "start_time": "2016-03-01T17:00:00Z",
+    "end_time": "2016-03-01T17:00:00Z",
+    "audience": [],
+    "data_source": "test",
+    "publisher": "test",
+    "description": {
+        "en": "In his day, Italian charmer <b>Umberto Marcato </b>was a huge success in Finland and is the leading vocalist of this Italian evening. The always charming <b>Milana Misic</b> and the young talent <b>Amadeus Lundberg </b>will also perform as soloists and the concert will even feature Croatian-born musician<b> Milan ”Miso” Misic</b>, with whom Umberto cooperates. Accompanied by <b>Juha Tikka's orchestra</b>.",
+        "fi": "Suomalaiset villinnyt italialainen hurmuri <b>Umberto Marcato </b>saapuu Suomeen ja esiintyy italialaisen tunnelmaillan pääsolistina. Illan kahtena muuna solistina nähdään iki-ihana <b>Milana Misic</b> ja nuori tulkitsijakyky <b>Amadeus Lundberg</b>. Konsertissa vierailee myös Umberton yhteistyökumppani, kroatialaislähtöinen muusikko <b>Milan ”Miso” Misic</b>. Umberto Marcato, joka ei suomalaiselle iskelmäkansalle juuri esittelyjä kaipaa, nousi Suomen musiikkilistojen kärkeen jo vuonna 1957, jolloin hän teki myös kahden kuukauden Suomen kiertueensa. Konsertissa kuulemme Umberton esittävän mm. Toivo Kärjen tangoja iltaliaksi, joita Umberto myös levytti aikoinaan. Amadeus Lundberg tulkitsee mm. esikuvansa Olavi Virran tunnetuksi tekemiä alkuperäisiä italoiskelmiä; niitä löytyy myös hänen Vain rakkautta -albumiltaan ja hän on esittänyt niitä myös yleisömenestyksen siivittämän Laulaja – Olavi Virta -musiikkiesityksen Olavina. Milana Misic on tutustunut italomusiikkiin äitinsä Laila Kinnusen kautta ja levyttänyt useita nostalgisia italialaisia sävelmiä, joista nyt saamme kuulla Volare! -illan aikana parhaat palat. Volare! -konsertin säestyksestä vastaa <b>Juha Tikan orkesteri</b>. Ilta täynnä tunnelmaa ja nostalgiaa… Maruzella, Lazzarella, Ciao Ciao bambina… ja monia muita tunnelmapaloja! Kesto n. 2 h, sisältää väliajan",
+        "sv": "<b>Umberto Marcato</b>, den italienska charmören som en gång i tiden förförde Finland, uppträder som den italienska kvällens huvudsolist. Kvällens två övriga solister är härliga <b>Milana Misic</b> och den unga talangen <b>Amadeus Lundberg</b>. Konserten gästas också av Umbertos samarbetspartner, musikern <b>Milan ”Miso” Misic</b>. För ackompanjemanget står <b>Juha Tikkas orkester</b>."
+    },
+    "info_url": {
+        "en": "http://www.savoyteatteri.fi/event/84CA7B6FE5352CE9A9A2E1114CAAF78E/en/Volare_An_Italian_evening",
+        "fi": "http://www.savoyteatteri.fi/tapahtuma/84CA7B6FE5352CE9A9A2E1114CAAF78E/fi/Volare_Italialainen_ilta",
+        "sv": "http://www.savoyteatteri.fi/evenemang/84CA7B6FE5352CE9A9A2E1114CAAF78E/sv/Volare_italienska_kvallen"
+    },
+    "provider": {
+        "en": "Production Magnumlive Oy",
+        "fi": "Tuotanto Magnumlive Oy",
+        "sv": "Produktion Magnumlive Oy"
+    },
+    "location_extra_info": null,
+    "short_description": {
+        "en": "In his day, Italian charmer Umberto Marcato was a huge success in Finland.",
+        "fi": "Suomalaiset villinnyt italialainen hurmuri Umberto Marcato saapuu Suomeen.",
+        "sv": "Umberto Marcato, den italienska charmören som en gång i tiden förförde Finland."
+    },
+    "name": {
+        "en": "Volare – An Italian evening",
+        "fi": "Volare – Italialainen ilta",
+        "sv": "Volare – italienska kvällen"
+    }
+}
